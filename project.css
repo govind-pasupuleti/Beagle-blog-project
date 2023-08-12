@@ -1,0 +1,43 @@
+.title{
+    text-decoration: underline;
+    font-family: sans-serif;
+}
+.special-word{
+    font-weight: bold;
+    font-style: italic;
+    font-family: Sans-serif;
+    font-style:solid;
+}
+.dog-image{
+    margin-top: 10px;
+    height: 40%;
+    width: 40%;
+    margin-bottom: 10px;
+}
+.more-image{
+    text-decoration: underline;
+    margin-bottom: 2px;
+}
+.read{
+    text-decoration: underline;
+}
+
+.beagle-section{
+    padding: 5%;
+}
+.image-section{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.beagle-breed-dog-wiki{
+    text-align: left;
+}
+.list-items{
+    align-items: start;
+}
+.Trivia-section{
+    align-items: flex-start;
+    text-align: left;
+    justify-content: start;
+}
